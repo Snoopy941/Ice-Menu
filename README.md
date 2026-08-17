@@ -11,8 +11,4 @@ It assumes you have Gorilla Tag and BepInEx installed to the **default path**, i
 
 # Images
 
-<img width="1265" height="673" alt="image" src="https://github.com/user-attachments/assets/b04376cf-d234-4de6-a431-631c832a5969" />
 
-<img width="694" height="474" alt="image" src="https://raw.githubusercontent.com/Wyvern-Softworks/NXO-Mod-Menu/refs/heads/main/Resources/NXO_Logo.png" />
-
-<img width="406" height="411" alt="image" src="https://raw.githubusercontent.com/Wyvern-Softworks/NXO-Mod-Menu/refs/heads/main/Resources/NXO%20is%20sooooo%20awesome.png" />
