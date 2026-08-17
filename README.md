@@ -9,6 +9,6 @@ Simply go to releases, download the DLL and put it in your BepInEx plugins folde
 # How to compile
 It assumes you have Gorilla Tag and BepInEx installed to the **default path**, if thats the case just open the project using Visual Studio and everything should be good.
 
-# Images
+
 
 
